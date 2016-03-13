@@ -1,0 +1,3 @@
+[submodule "git-fire"]
+	path = git-fire
+	url = git@github.com:qw3rtman/git-fire.git
